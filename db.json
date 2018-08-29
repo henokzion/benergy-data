@@ -20,10 +20,17 @@
       "country" : "Ethiopia"
     }
   ],
-  "users": [{
-    "id" : 1,
-    "name": "typicode",
-    "username" : "henok",
-    "email" : "henokzion@gmail.com"
-  }]
+  "users": [
+    {
+      "id" : 1,
+      "name": "typicode",
+      "username" : "henok",
+      "email" : "henokzion@gmail.com"
+    },{
+      "id" : 2,
+      "name": "typicode",
+      "username" : "henok",
+      "email" : "henokzion@gmail.com"
+    }
+  ]
 }
