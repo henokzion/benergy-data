@@ -1,0 +1,29 @@
+{
+  "vendors": [
+    {
+      "Vendor": "lorem ipsum",
+      "agenets": 42,
+      "customers" : 23,
+      "projects" : 34,
+      "country" : "Ethiopia"
+    },    {
+      "Vendor": "lorem ipsum",
+      "agenets": 42,
+      "customers" : 23,
+      "projects" : 34,
+      "country" : "Ethiopia"
+    },    {
+      "Vendor": "lorem ipsum",
+      "agenets": 42,
+      "customers" : 23,
+      "projects" : 34,
+      "country" : "Ethiopia"
+    }
+  ],
+  "users": {
+    "id" : 1,
+    "name": "typicode",
+    "username" : "henok",
+    "email" : "henokzion@gmail.com"
+  }
+}
