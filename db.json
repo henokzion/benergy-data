@@ -51,7 +51,15 @@
           "Customers" : 5,
           "num of projects" : 7,
           "completed": 2
+        },
+                {
+          "id" : 2,
+          "vendor_id: 1,
+          "Agents": "John doe",
+          "Customers" : 5,
+          "num of projects" : 7,
+          "completed": 2
         }
-      ]
+   ]
 }
 
