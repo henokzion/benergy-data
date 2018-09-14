@@ -3,24 +3,39 @@
     {
       "id": 1,
       "Vendor": "lorem ipsum",
-      "agents": 42,
+      "num of agents": 42,
       "customers" : 23,
       "projects" : 34,
-      "country" : "Ethiopia"
+      "country" : "Ethiopia",
+      "agents" : [
+        {
+          "id" : 1,
+          "Agents": "John doe",
+          "Customers" : 5,
+          "num of projects" : 7,
+          "completed": 2
+        }
+      ]
     },    {
       "id": 2,
       "Vendor": "lorem ipsum",
-      "agents": 42,
+      "num of agents": 42,
       "customers" : 23,
       "projects" : 34,
-      "country" : "Ethiopia"
+      "country" : "Ethiopia",
+      "agents" : [
+        {}
+      ]
     },    {
       "id": 3,
       "Vendor": "lorem ipsum",
-      "agents": 42,
+      "num of agents": 42,
       "customers" : 23,
       "projects" : 34,
-      "country" : "Ethiopia"
+      "country" : "Ethiopia",
+      "agents" : [
+        {}
+      ]
     }
   ],
   "users": [
