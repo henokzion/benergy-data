@@ -74,5 +74,21 @@
         "location" : "mekelle",
         "period" : "two weeks",
         "phase" : "fix pipe"
+    }],
+    "comments" : [{
+        "id" : 1,
+        "project_id" : 1,
+        "body" :"loerm ipsum dolor simit",
+        "created_at" : "Wed Sep 24 2014 03:00:00 GMT+0300 (EAT)"
+    },{
+        "id" : 2,
+        "project_id" : 1,
+        "body" :"loerm ipsum dolor simit",
+        "created_at" : "Wed Sep 24 2014 03:00:00 GMT+0300 (EAT)"
+    },{
+        "id" : 3,
+        "project_id" : 1,
+        "body" :"loerm ipsum dolor simit",
+        "created_at" : "Wed Sep 24 2014 03:00:00 GMT+0300 (EAT)"
     }]
 }
