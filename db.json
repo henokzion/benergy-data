@@ -46,7 +46,7 @@
   "agents" : [
         {
           "id" : 1,
-          "vendor_id: 1,
+          "vendor_id": 1,
           "Agents": "John doe",
           "Customers" : 5,
           "num of projects" : 7,
@@ -54,7 +54,7 @@
         },
                 {
           "id" : 2,
-          "vendor_id: 1,
+          "vendor_id": 1,
           "Agents": "John doe",
           "Customers" : 5,
           "num of projects" : 7,
