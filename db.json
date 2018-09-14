@@ -49,5 +49,30 @@
         "Customers": 5,
         "num of projects": 7,
         "completed": 2
+    }],
+    "projects" : [{
+        "id": 1,
+        "agent_id": 1,
+        "project name" : "install",
+        "customers" : "Albert Einstien",
+        "location" : "mekelle",
+        "period" : "two weeks",
+        "phase" : "fix pipe"
+    },{
+        "id": 2,
+        "agent_id": 1,
+        "project name" : "install",
+        "customers" : "Albert Einstien",
+        "location" : "mekelle",
+        "period" : "two weeks",
+        "phase" : "fix pipe"
+    },{
+        "id": 3,
+        "agent_id": 1,
+        "project name" : "install",
+        "customers" : "Albert Einstien",
+        "location" : "mekelle",
+        "period" : "two weeks",
+        "phase" : "fix pipe"
     }]
 }
